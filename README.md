@@ -37,7 +37,7 @@ Install and configure IntelliJ IDEA<br />
 	1. Import Project from existing sources.<br />
 	2. Now import from external model and select "SBT" from Import Project dialog.<br />
 	3. Now Select project SDK from dropdown if available.<br />
-			OR
+			OR<br />
 	3. Create New SDK from the path of the latest java version.<br />
 
 EDIT: saad (Thur June 9 18:16:26 IST 2016) Or just File > Open (And locate the path of your checkout)<br />
