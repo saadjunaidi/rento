@@ -29,19 +29,19 @@ Next open your web browser and point to: http://localhost:9000/
 
 Install and configure IntelliJ IDEA<br />
 
-** Install IntelliJ IDEA and then configure it for Scala Plugins.
-	1. Go to Configure -> plugins (or from some where else).
-	2. search and install scala plugin (this will install all sbt, and play related stuff)
+** Install IntelliJ IDEA and then configure it for Scala Plugins.<br />
+	1. Go to Configure -> plugins (or from some where else).<br />
+	2. search and install scala plugin (this will install all sbt, and play related stuff)<br />
 
-** Import the project from existing source and then add the latest JDK location.
-	1. Import Project from existing sources.
-	2. Now import from external model and select "SBT" from Import Project dialog.
-	3. Now Select project SDK from dropdown if available.
+** Import the project from existing source and then add the latest JDK location.<br />
+	1. Import Project from existing sources.<br />
+	2. Now import from external model and select "SBT" from Import Project dialog.<br />
+	3. Now Select project SDK from dropdown if available.<br />
 			OR
-	3. Create New SDK from the path of the latest java version.
+	3. Create New SDK from the path of the latest java version.<br />
 
-EDIT: saad (Thur June 9 18:16:26 IST 2016) Or just File > Open (And locate the path of your checkout)
+EDIT: saad (Thur June 9 18:16:26 IST 2016) Or just File > Open (And locate the path of your checkout)<br />
 
-** Refresh SBT somehow (you need to figure it out, you are the dev, are not you)
+** Refresh SBT somehow (you need to figure it out, you are the dev, are not you)<br />
 
 Done.
